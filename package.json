@@ -1,0 +1,23 @@
+{
+  "name": "nexmo-typeform-sms",
+  "version": "0.0.1",
+  "description": "Send an SMS with Nexmo when someone fills out your TypeForm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexmo-community/nexmo-typeform-sms.git"
+  },
+  "author": "Alex Lakatos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nexmo-community/nexmo-typeform-sms/issues"
+  },
+  "homepage": "https://github.com/nexmo-community/nexmo-typeform-sms#readme",
+  "dependencies": {
+    "hapi": "^17.6.0",
+    "nexmo": "^2.4.1-beta-1"
+  }
+}

@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+ngrok
+package-lock.json
+private.key
